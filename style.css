@@ -1,0 +1,223 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fbfbfb;
+}
+
+header {
+    background-color: rgb(242, 28, 28);
+    height: 80px;
+    position: relative;
+
+}
+
+.logo-span {
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px 15px;
+
+    position: absolute;
+    left: 80px;
+    top: 18px;
+}
+
+.logo {
+    color: red;
+    font-size: 31px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.login-signup {
+    position: absolute;
+    right: 80px;
+    top: 25px;
+}
+
+.login {
+    color: white;
+    text-decoration: none;
+}
+
+.createacc {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 10px;
+    word-spacing: normal;
+    border-radius: 5px;
+}
+
+section {
+    position: relative;
+    padding: 20px 50px;
+}
+
+.title-text {
+    color: #192f60;
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.filters-article {
+    /* Layout Properties */
+    top: 131px;
+    left: 20px;
+    width: 260px;
+    height: 682px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 3px #0000001A;
+    border: 1px solid #0e0707;
+    opacity: 1;
+}
+
+.result1-article {
+    /* Layout Properties */
+    top: 195px;
+    left: 418px;
+    width: 794px;
+    height: 280px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
+.result2-article {
+    /* Layout Properties */
+    top: 195px;
+    left: 418px;
+    width: 794px;
+    height: 280px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+    top: 430px;
+    left: 350px;
+}
+
+.pagination {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+}
+
+.filters-article {
+    padding-left: 20px;
+    color: #192f60;
+
+
+}
+
+.filter {
+    font-size: 24px;
+    font-weight: 550;
+}
+
+.select {
+    padding-top: 15px;
+    font-weight: 300;
+}
+
+.location {
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    color: #192f60;
+}
+
+.cuisine {
+    color: grey;
+    font-size: 14px;
+}
+
+.cost {
+    color: grey;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.sort {
+    color: grey;
+    font-size: 14px;
+}
+
+.bakery {
+    margin-left: 10%;
+    margin-top: 20%;
+
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+
+.address {
+    top: 310px;
+    left: 619px;
+    width: 370px;
+    height: 23px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    margin-left: 30%;
+}
+
+.line1 {
+    margin-top: 10%;
+}
+
+.info1 {
+    top: 397px;
+    left: 458px;
+    width: 140px;
+    height: 118px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    margin-left: 30px;
+}
+
+.info2 {
+    top: 397px;
+    left: 634px;
+    width: 251px;
+    height: 69px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.bakery2 {
+
+    /* UI Properties */
+    top: 559px;
+    left: 614px;
+    width: 223px;
+    height: 43px;
+    text-align: left;
+    font: normal normal 600 30px/46px Poppins;
+
+    color: #192F60;
+
+    margin-bottom: 20%;
+}
